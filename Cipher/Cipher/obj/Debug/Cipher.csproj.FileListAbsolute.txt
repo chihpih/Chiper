@@ -1,0 +1,14 @@
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\bin\Debug\Cipher.exe.config
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\bin\Debug\Cipher.exe
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\bin\Debug\Cipher.pdb
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\obj\Debug\Cipher.csproj.AssemblyReference.cache
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\obj\Debug\Cipher.Form1.resources
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\obj\Debug\Cipher.Properties.Resources.resources
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\obj\Debug\Cipher.csproj.GenerateResource.cache
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\obj\Debug\Cipher.csproj.CoreCompileInputs.cache
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\obj\Debug\Cipher.exe
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\obj\Debug\Cipher.pdb
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\bin\Debug\Cipher.exe.manifest
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\bin\Debug\Cipher.application
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\obj\Debug\Cipher.exe.manifest
+C:\Users\hot_bebra\source\repos\Cipher\Cipher\obj\Debug\Cipher.application
